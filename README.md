@@ -1,2 +1,2 @@
 # PRACTICA_SOLID
-Ejemplos aplicando peincipios de SOLID
+Ejemplos aplicando principios de SOLID
